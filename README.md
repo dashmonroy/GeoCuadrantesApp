@@ -2,13 +2,13 @@
 
 ![Vista del Mapa](Mapa.png)
 
-GeoCuadrantesApp es una aplicación en **Python** con **Tkinter, GeoPandas y Folium** que permite cargar archivos **Excel y KMZ**, asignar nodos a puntos geográficos y visualizar los resultados en un mapa interactivo. Además, genera un **mapa HTML dinámico** que permite explorar la distribución de los nodos de manera interactiva.
+GeoCuadrantesApp es una aplicación en **Python** con **Tkinter, GeoPandas y Folium** que permite cargar archivos **Excel y KMZ**, asignar nodos a puntos geográficos y visualizar los resultados en un mapa interactivo. Además, genera un **mapa HTML dinámico** que permite explorar la distribución de los cuadrantes de manera interactiva.
 
 ## 🚀 Características
 
 - 📂 **Carga de datos** desde **Excel** (`.xlsx`) con coordenadas.
 - 🌍 **Carga de archivos KMZ** con la delimitación de zonas o cuadrantes.
-- 🔍 **Asignación automática de nodos** basada en proximidad y pertenencia geográfica.
+- 🔍 **Asignación automática de cuadrantes** basada en proximidad y pertenencia geográfica.
 - 🗺️ **Generación de mapas interactivos** con Folium, exportados como HTML.
 - 🎨 **Interfaz gráfica intuitiva** con Tkinter.
 - 💾 **Exportación de resultados** en **Excel** (`.xlsx`).
